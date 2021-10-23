@@ -2,7 +2,7 @@
 # A Subset of GCC compiler
 
 **Tools Used**: Flex, Bison  
-**Language**: C++
+**Language**: C++, Lex, Yacc
 
 ## Project Info
 
